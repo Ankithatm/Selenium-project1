@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+    <class name="ECAP.NewRegister"/>
+    <class name="ECAP.LoginPage"/> 
+    <class name="ECAP.OpenAccount"/>
+    <class name="ECAP.BillPay"/>
+      <class name="ECAP.TransferFund"/>
+      <class name="ECAP.UpdateInfo"/>
+      <class name="ECAP.ForgotPassword"/>
+      <class name="ECAP.logout"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
